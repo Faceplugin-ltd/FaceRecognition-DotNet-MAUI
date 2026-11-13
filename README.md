@@ -186,9 +186,9 @@ The sample app already includes valid keys for Android `com.faceplugin.facerecog
 
 The code below shows how to use the license:
 
-[https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/main/src/FaceRecognition.Net.Maui/LicenseKeys.cs#L10-L21](https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/main/src/FaceRecognition.Net.Maui/LicenseKeys.cs#L10-L21)
+[https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/e86ab6b726d34b6c263f061b438d661379aef7e0/src/FaceRecognition.Net.Maui/LicenseKeys.cs#L10-L21](https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/e86ab6b726d34b6c263f061b438d661379aef7e0/src/FaceRecognition.Net.Maui/LicenseKeys.cs#L10-L21)
 
-[https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/main/src/FaceRecognition.Net.Maui/FaceSdk.cs#L103-L119](https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/main/src/FaceRecognition.Net.Maui/FaceSdk.cs#L103-L119)
+[https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/e86ab6b726d34b6c263f061b438d661379aef7e0/src/FaceRecognition.Net.Maui/FaceSdk.cs#L103-L119](https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI/blob/e86ab6b726d34b6c263f061b438d661379aef7e0/src/FaceRecognition.Net.Maui/FaceSdk.cs#L103-L119)
 
 Please [contact us](#contact) to get a license for **your own app**.
 
