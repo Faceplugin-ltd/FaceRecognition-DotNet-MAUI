@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:FaceRecognition.Net.Maui"
+       x:Class="FaceRecognition.Net.Maui.AppShell"
+       Shell.FlyoutBehavior="Disabled"
+       Shell.BackgroundColor="#1C1B1F"
+       Shell.ForegroundColor="#E6E1E5"
+       Shell.TitleColor="#E6E1E5"
+       Title="Face Recognition">
+    <ShellContent ContentTemplate="{DataTemplate local:HomePage}" Route="HomePage" />
+</Shell>
